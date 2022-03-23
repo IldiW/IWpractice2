@@ -121,7 +121,7 @@
     "@type" : "sc:Range",
     "label" : "Table of Content",
     "viewingHint" : "top",
-    "ranges" : [ "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/intro", "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part2" ]
+    "ranges" : [ "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/intro", "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part2", "http://1e17050c-11ea-4c91-b445-1deeab3876be" ]
   }, {
     "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/intro",
     "@type" : "sc:Range",
@@ -132,5 +132,10 @@
     "@type" : "sc:Range",
     "label" : "Part 2",
     "canvases" : [ "http://b52e056f-5c13-4e01-a60a-2a24096d7514" ]
+  }, {
+    "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part3",
+    "@type" : "sc:Range",
+    "label" : "Part 3",
+    "canvases" : [ "http://1e17050c-11ea-4c91-b445-1deeab3876be" ]
   } ]
 }
