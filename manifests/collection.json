@@ -1,0 +1,13 @@
+{
+  "id" : "https://IldiW.github.io/IWpractice2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in IldiW/IWpractice2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest.json",
+    "label" : "Three Kings from Thuroczy's Chronica"
+  } ]
+}
