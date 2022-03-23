@@ -1,0 +1,66 @@
+{
+  "id" : "https://IldiW.github.io/IWpractice2/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in IldiW/IWpractice2 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1150,
+    "id" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter/canvas/",
+    "label" : {
+      "none" : [ "IB6663Peter" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 36,
+              "height" : 49
+            }, {
+              "width" : 72,
+              "height" : 98
+            }, {
+              "width" : 144,
+              "height" : 196
+            }, {
+              "width" : 288,
+              "height" : 392
+            }, {
+              "width" : 575,
+              "height" : 783
+            }, {
+              "width" : 1150,
+              "height" : 1565
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1150,
+            "@id" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1565
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1150,
+          "id" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1565
+        },
+        "target" : "https://IldiW.github.io/IWpractice2/images/IB6663Peter/canvas/"
+      } ]
+    } ],
+    "height" : 1565
+  } ]
+}
