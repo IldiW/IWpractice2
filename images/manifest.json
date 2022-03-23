@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1052,
+    "id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI/canvas/",
+    "label" : {
+      "none" : [ "IB6663UlaszloI" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 33,
+              "height" : 46
+            }, {
+              "width" : 66,
+              "height" : 91
+            }, {
+              "width" : 132,
+              "height" : 181
+            }, {
+              "width" : 263,
+              "height" : 361
+            }, {
+              "width" : 526,
+              "height" : 721
+            }, {
+              "width" : 1052,
+              "height" : 1442
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1052,
+            "@id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1442
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1052,
+          "id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1442
+        },
+        "target" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI/canvas/"
+      } ]
+    } ],
+    "height" : 1442
+  }, {
     "width" : 1054,
     "id" : "https://IldiW.github.io/IWpractice2/images/IB6663IstvanII/canvas/",
     "label" : {
