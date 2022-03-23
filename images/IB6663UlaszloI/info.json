@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 33,
+    "height" : 46
+  }, {
+    "width" : 66,
+    "height" : 91
+  }, {
+    "width" : 132,
+    "height" : 181
+  }, {
+    "width" : 263,
+    "height" : 361
+  }, {
+    "width" : 526,
+    "height" : 721
+  }, {
+    "width" : 1052,
+    "height" : 1442
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1052,
+  "@id" : "https://IldiW.github.io/IWpractice2/images/IB6663UlaszloI",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1442
+}
