@@ -140,17 +140,17 @@
   }, {
     "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part1",
     "@type" : "sc:Range",
-    "label" : "Part 1",
+    "label" : "King 1",
     "canvases" : [ "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3" ]
   }, {
     "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part2",
     "@type" : "sc:Range",
-    "label" : "Part 2",
+    "label" : "King 2",
     "canvases" : [ "http://b52e056f-5c13-4e01-a60a-2a24096d7514" ]
   }, {
     "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part3",
     "@type" : "sc:Range",
-    "label" : "Part 3",
+    "label" : "King 3",
     "canvases" : [ "http://1e17050c-11ea-4c91-b445-1deeab3876be" ]
   } ]
 }
