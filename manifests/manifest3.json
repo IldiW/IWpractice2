@@ -1,0 +1,161 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Three Kings from Thuroczy's Chronica",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/62942102/a0985e4bf5eb449636a0dc6f37b8beeb/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
+  "viewingHint" : "paged",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Thuróczy, János, approximately 1435-"
+  }, {
+    "label" : "Title",
+    "value" : "Chronica Hungarorum"
+  }, {
+    "label" : "Published",
+    "value" : [ {
+      "@value" : "Auguste, 1488",
+      "@language" : "latn"
+    }, {
+      "@value" : "Augsburg, 1488",
+      "@language" : "de"
+    } ]
+  }, {
+    "label" : "BL Shelfmark",
+    "value" : "IB.6663."
+  } ],
+  "description" : [ {
+    "@value" : "Three images from Chronica Hungarorum (Augsburg, 1488) created with the same print block",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "The British Library",
+  "sequences" : [ {
+    "@id" : "http://6745fe7b-6015-43fa-996b-db5732938ba6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3",
+      "@type" : "sc:Canvas",
+      "label" : "Peter",
+      "height" : 1565,
+      "width" : 1150,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://314d27f8-1b21-4715-b39e-56af724c92f0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ib-6663-peter/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ib-6663-peter",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1565,
+          "width" : 1150
+        },
+        "on" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://ildiw.github.io/IWpractice2/annotations/53ea58a27bcf8b661be2ce40a1b49858.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Same difference annotations"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b52e056f-5c13-4e01-a60a-2a24096d7514",
+      "@type" : "sc:Canvas",
+      "label" : "Istvan II",
+      "height" : 1404,
+      "width" : 1054,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a8536eff-4b51-45ee-9028-8992caa04357",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ib-6663-istvan-ii/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ib-6663-istvan-ii",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1404,
+          "width" : 1054
+        },
+        "on" : "http://b52e056f-5c13-4e01-a60a-2a24096d7514"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://ildiw.github.io/IWpractice2/annotations/676eed9a9ac603b8881248374cf4bbc8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Same difference annotations"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1e17050c-11ea-4c91-b445-1deeab3876be",
+      "@type" : "sc:Canvas",
+      "label" : "Ulaszlo I",
+      "height" : 1442,
+      "width" : 1052,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b6c28bc7-63b1-4b19-9328-24ae7086d0f0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ib-6663-ulaszlo-i/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ib-6663-ulaszlo-i",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1442,
+          "width" : 1052
+        },
+        "on" : "http://1e17050c-11ea-4c91-b445-1deeab3876be"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://ildiw.github.io/IWpractice2/annotations/312a90168542b49d7f5727d1a693f966.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Same difference annotations"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part1", "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part2", "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part3" ]
+  }, {
+    "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part1",
+    "@type" : "sc:Range",
+    "label" : "King 1",
+    "canvases" : [ "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3" ]
+  }, {
+    "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part2",
+    "@type" : "sc:Range",
+    "label" : "King 2",
+    "canvases" : [ "http://b52e056f-5c13-4e01-a60a-2a24096d7514" ]
+  }, {
+    "@id" : "http://202074c4-e25b-41b5-b40f-5901d0e08fae/range/Part3",
+    "@type" : "sc:Range",
+    "label" : "King 3",
+    "canvases" : [ "http://1e17050c-11ea-4c91-b445-1deeab3876be" ]
+  } ]
+}
