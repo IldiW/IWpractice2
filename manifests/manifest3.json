@@ -87,6 +87,11 @@
         },
         "on" : "http://b52e056f-5c13-4e01-a60a-2a24096d7514"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://ildiw.github.io/IWpractice2/annotations/676eed9a9ac603b8881248374cf4bbc8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Same difference annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://1e17050c-11ea-4c91-b445-1deeab3876be",
