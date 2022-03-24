@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "coat of arms of House of Arpad",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>coat of arms of House of Arpad</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/62942102",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T15:18:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648135118421",
+    "dcterms:modified" : "2022-03-24T15:18:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=827,711,251,246"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1040.60656,747.07565c-23.12883,-20.68548 -55.75579,-36.08926 -88.54087,-36.07085v0v0c-32.78507,0.0184 -61.34637,14.42839 -88.54087,36.07085c-27.1945,21.64247 -37.76465,54.62141 -36.67483,87.08274c1.08982,32.46134 13.83963,64.40508 36.67483,87.08274c22.8352,22.67767 55.75579,36.08926 88.54087,36.07085c32.78507,-0.0184 65.43462,-13.4668 88.54087,-36.07085c23.10624,-22.60405 36.66918,-54.36376 36.67483,-87.08274c0.00565,-32.71899 -13.546,-66.39726 -36.67483,-87.08274z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_764a3a02-f8a2-4571-b1bb-0cfa5325c19c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "same crown",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>same crown</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/62942102",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T15:16:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648134987333",
+    "dcterms:modified" : "2022-03-24T15:16:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=552,520,262,155"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M551.91135,519.66667h130.8617v0h130.8617v77.58511v77.58511h-130.8617h-130.8617v-77.58511z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f6f21fe4-3af9-4c08-b7ee-1a52a9bfb1f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "same orb",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>same orb</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/62942102",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T15:16:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648135008701",
+    "dcterms:modified" : "2022-03-24T15:16:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=408,899,146,197"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M407.62057,899.26241h73.14539v0h73.14539v98.67376v98.67376h-73.14539h-73.14539v-98.67376z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1fcbae4a-c49d-4428-83b5-ce349db1948b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "coat of arms of H",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>coat of arms of H</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/62942102",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T15:17:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648135045890",
+    "dcterms:modified" : "2022-03-24T15:18:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=195,714,262,259"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M418.11817,751.77989c-24.15995,-21.73734 -58.24148,-37.9244 -92.48816,-37.90506v0v0c-34.24668,0.01934 -64.08129,15.16208 -92.48816,37.90506c-28.40687,22.74299 -39.44826,57.39891 -38.30985,91.5109c1.13841,34.112 14.45662,67.68008 38.30985,91.5109c23.85323,23.83083 58.24148,37.9244 92.48816,37.90506c34.24668,-0.01934 68.3518,-14.15159 92.48816,-37.90506c24.13636,-23.75347 38.30395,-57.12815 38.30985,-91.5109c0.0059,-34.38275 -14.1499,-69.77357 -38.30985,-91.5109z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_b24bef68-e141-4b55-b94c-8abcb3795440\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.65957\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0c0a7941-9e30-43ca-89d8-f2e52dfa3fa3"
+    } ]
+  } ],
+  "@id" : "https://IldiW.github.io/IWpractice2/annotations/53ea58a27bcf8b661be2ce40a1b49858.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
