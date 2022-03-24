@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://IldiW.github.io/IWpractice2/annotations/312a90168542b49d7f5727d1a693f966.json" ],
+  "otherContent" : [ ],
   "@id" : "https://IldiW.github.io/IWpractice2/annotations/collection.json",
   "label" : "All annotations loaded in IldiW/IWpractice2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
