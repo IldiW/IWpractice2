@@ -17,7 +17,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest.json"
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -50,7 +50,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest.json"
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -83,7 +83,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest.json"
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -116,7 +116,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest.json"
+        "@id" : "https://IldiW.github.io/IWpractice2/manifests/manifest3.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
