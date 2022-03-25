@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://IldiW.github.io/IWpractice2/annotations/676eed9a9ac603b8881248374cf4bbc8.json", "https://IldiW.github.io/IWpractice2/annotations/53ea58a27bcf8b661be2ce40a1b49858.json" ],
+  "otherContent" : [ "https://IldiW.github.io/IWpractice2/annotations/676eed9a9ac603b8881248374cf4bbc8.json", "https://IldiW.github.io/IWpractice2/annotations/53ea58a27bcf8b661be2ce40a1b49858.json", "https://IldiW.github.io/IWpractice2/annotations/312a90168542b49d7f5727d1a693f966.json" ],
   "@id" : "https://IldiW.github.io/IWpractice2/annotations/collection.json",
   "label" : "All annotations loaded in IldiW/IWpractice2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
